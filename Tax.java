@@ -1,4 +1,4 @@
-// Designed by J.R. Amezcua 07/10/2017 
+// "Designed" by J.R. Amezcua 07/10/2017 
 //This program tells me the amount of tax I should be charging, plus total sale
 import java.util.Scanner;
 
